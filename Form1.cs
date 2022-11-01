@@ -159,6 +159,8 @@ namespace MatchingGame
             // That means the user won. Show a message and close the form
             MessageBox.Show("You matched all the icons!", "Congratulations");
             Close();
+
+            // SKSKKSKS
         }
     }
 }
